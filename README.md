@@ -7,6 +7,5 @@
 <img width="1062" height="353" alt="Screenshot 2025-09-22 163824" src="https://github.com/user-attachments/assets/78524493-bf9c-4aed-87bd-97be742d26ca" />
 <img width="1087" height="814" alt="Screenshot 2025-09-23 135752" src="https://github.com/user-attachments/assets/6865e607-e364-45c9-97f6-b7608dd0d293" />
 
-![osoutput](https://github.com/user-attachments/assets/2bbbb317-45b8-4f0d-b49a-7a1ed573b9d9)
 
 <img width="722" height="526" alt="Screenshot 2025-09-23 112604" src="https://github.com/user-attachments/assets/a62e3130-bbf3-45bb-bb06-6faaeee6b58f" />
